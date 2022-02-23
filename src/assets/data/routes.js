@@ -13,11 +13,6 @@ export var indexNavigationRoutes = [
     name: 'Speakers',
     path: '/speakers',
     component: Speakers
-  },
-  {
-    name: 'Schedule',
-    path: '/schedule',
-    component: Schedule
   }
 ];
 
